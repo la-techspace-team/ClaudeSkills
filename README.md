@@ -1,6 +1,6 @@
 # Claude Skills Collection
 
-A curated collection of production-ready Claude AI skills built to solve real problems. Each skill is thoroughly documented, tested, and ready to use.
+A curated collection of production-ready Claude AI skills built to solve real problems. Each skill is documented, tested, and ready to use.
 
 ---
 
@@ -8,12 +8,12 @@ A curated collection of production-ready Claude AI skills built to solve real pr
 
 ### Resume Customizer
 
-**Generate interview-ready, tailored resumes with AI-powered analysis**
+**Generate tailored resumes with your resume bank and get interview-ready **
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](./resume-customizer/) [![Status](https://img.shields.io/badge/status-stable-green)](./resume-customizer/)
 
 #### Overview
-Generate customized resumes in minutes with intelligent relevance scoring, company research, and recruiter-level feedback. Built from real need, proven with a 92/100 fit score on an OpenAI application.
+Generate customized resumes in 5 minutes with intelligent relevance scoring, company research, and brutally honest recruiter-level feedback based on the job you're applying for. Share your success stories.
 
 #### What It Does
 - Analyzes job descriptions and researches companies
@@ -68,12 +68,6 @@ Generate customized resumes in minutes with intelligent relevance scoring, compa
 3. Paste job description
 4. Get complete package in 8-15 minutes
 ```
-
-#### Links
-- **[📖 Full Documentation](./resume-customizer/SKILL.md)**
-- **[💡 Examples](./resume-customizer/EXAMPLES.md)**
-- **[📋 Changelog](./resume-customizer/CHANGELOG.md)**
-- **[⬇️ Download](./resume-customizer/)**
 
 #### Stats
 - **Version:** 1.0.0
@@ -186,7 +180,7 @@ All skills in this collection follow these standards:
 
 **Connect:**
 - **Creator:** [Nanavati Low](https://linkedin.com/in/nanavatilow)
-- **Repository:** [github.com/YOUR-USERNAME/ClaudeSkills](https://github.com/YOUR-USERNAME/ClaudeSkills)
+- **Repository:** [https://github.com/la-techspace-team/ClaudeSkills]([https://github.com/YOUR-USERNAME/ClaudeSkills](https://github.com/nlow))
 - **License:** MIT (see individual skill folders)
 
 ## ⚖️ License
@@ -216,7 +210,7 @@ Each skill is open source under MIT License. See individual skill folders for de
 
 ## 🔮 Vision
 
-**Goal:** Build a comprehensive, production-tested collection of Claude AI skills that solve real problems.
+**Goal:** Build production-tested collection of Claude AI skills that solves real problems.
 
 **Principles:**
 - Quality over quantity
